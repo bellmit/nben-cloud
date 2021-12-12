@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.ruoyi</groupId>
+    <groupId>com.nben</groupId>
     <artifactId>nben-cloud</artifactId>
     <version>0.0.1</version>
 
@@ -190,56 +190,56 @@
 
             <!-- 核心模块 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-common-core</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
             <!-- 接口模块 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-common-swagger</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
             <!-- 安全模块 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-common-security</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
             <!-- 权限范围 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-common-datascope</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
             <!-- 多数据源 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-common-datasource</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
             <!-- 日志记录 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-common-log</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
             <!-- 缓存服务 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-common-redis</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
             <!-- 系统接口 -->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.nben</groupId>
                 <artifactId>nben-api-system</artifactId>
                 <version>${nben.version}</version>
             </dependency>

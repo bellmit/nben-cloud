@@ -3,7 +3,7 @@
          xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>com.ruoyi</groupId>
+        <groupId>com.nben</groupId>
         <artifactId>nben-modules</artifactId>
         <version>0.0.1</version>
     </parent>
@@ -56,25 +56,25 @@
 
         <!-- Common DataSource -->
         <dependency>
-            <groupId>com.ruoyi</groupId>
+            <groupId>com.nben</groupId>
             <artifactId>nben-common-datasource</artifactId>
         </dependency>
 
         <!-- Common DataScope -->
         <dependency>
-            <groupId>com.ruoyi</groupId>
+            <groupId>com.nben</groupId>
             <artifactId>nben-common-datascope</artifactId>
         </dependency>
 
         <!-- Common Log -->
         <dependency>
-            <groupId>com.ruoyi</groupId>
+            <groupId>com.nben</groupId>
             <artifactId>nben-common-log</artifactId>
         </dependency>
 
         <!-- Common Swagger -->
         <dependency>
-            <groupId>com.ruoyi</groupId>
+            <groupId>com.nben</groupId>
             <artifactId>nben-common-swagger</artifactId>
         </dependency>
 
