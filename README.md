@@ -2,7 +2,7 @@
 
 nben-cloud是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
 
-> 友情提示：本项目基于 RuoYi-Vue 修改
+> 友情提示：本项目基于 RuoYi-Cloud 修改，前端项目请见[nben-ui](https://github.com/fourcows/nben-ui) ，项目文档请见[nben-doc](https://fourcows.github.io/nben-doc)
 
 ## 技术栈
 * 前后端分离
