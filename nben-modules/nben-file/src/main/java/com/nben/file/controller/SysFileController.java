@@ -9,7 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 import com.nben.common.core.domain.R;
 import com.nben.common.core.utils.file.FileUtils;
 import com.nben.file.service.ISysFileService;
-import com.nben.system.api.domain.SysFile;
+import com.nben.system.pojo.entity.SysFile;
 
 /**
  * 文件请求处理

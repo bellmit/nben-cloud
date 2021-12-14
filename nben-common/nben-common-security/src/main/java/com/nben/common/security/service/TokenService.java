@@ -15,7 +15,7 @@ import com.nben.common.core.utils.StringUtils;
 import com.nben.common.core.utils.ip.IpUtils;
 import com.nben.common.redis.service.RedisService;
 import com.nben.common.security.utils.SecurityUtils;
-import com.nben.system.api.model.LoginUser;
+import com.nben.system.pojo.dto.LoginUser;
 
 /**
  * token验证处理

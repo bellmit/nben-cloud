@@ -57,7 +57,7 @@
         <!-- Api System -->
         <dependency>
             <groupId>com.nben</groupId>
-            <artifactId>nben-api-system</artifactId>
+            <artifactId>nben-system-api</artifactId>
         </dependency>
 
         <!-- Common Swagger -->

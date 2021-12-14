@@ -24,7 +24,7 @@ import com.nben.common.core.utils.ServletUtils;
 import com.nben.common.core.utils.StringUtils;
 import com.nben.common.core.utils.ip.IpUtils;
 import com.nben.common.security.utils.SecurityUtils;
-import com.nben.system.api.domain.SysOperLog;
+import com.nben.system.pojo.entity.SysOperLog;
 
 /**
  * 操作日志记录处理

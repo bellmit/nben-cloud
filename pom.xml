@@ -240,7 +240,7 @@
             <!-- 系统接口 -->
             <dependency>
                 <groupId>com.nben</groupId>
-                <artifactId>nben-api-system</artifactId>
+                <artifactId>nben-system-api</artifactId>
                 <version>${nben.version}</version>
             </dependency>
 
@@ -252,7 +252,7 @@
         <module>nben-gateway</module>
         <module>nben-visual</module>
         <module>nben-modules</module>
-        <module>nben-api</module>
+        <module>nben-system</module>
         <module>nben-common</module>
     </modules>
     <packaging>pom</packaging>

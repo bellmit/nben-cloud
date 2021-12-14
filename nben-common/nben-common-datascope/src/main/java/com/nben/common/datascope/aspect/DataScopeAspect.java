@@ -8,9 +8,9 @@ import com.nben.common.core.utils.StringUtils;
 import com.nben.common.core.web.domain.BaseEntity;
 import com.nben.common.datascope.annotation.DataScope;
 import com.nben.common.security.utils.SecurityUtils;
-import com.nben.system.api.domain.SysRole;
-import com.nben.system.api.domain.SysUser;
-import com.nben.system.api.model.LoginUser;
+import com.nben.system.pojo.entity.SysRole;
+import com.nben.system.pojo.entity.SysUser;
+import com.nben.system.pojo.dto.LoginUser;
 
 /**
  * 数据过滤处理

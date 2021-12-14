@@ -14,9 +14,9 @@ import com.nben.common.core.utils.ip.IpUtils;
 import com.nben.common.security.utils.SecurityUtils;
 import com.nben.system.api.RemoteLogService;
 import com.nben.system.api.RemoteUserService;
-import com.nben.system.api.domain.SysLogininfor;
-import com.nben.system.api.domain.SysUser;
-import com.nben.system.api.model.LoginUser;
+import com.nben.system.pojo.entity.SysLogininfor;
+import com.nben.system.pojo.entity.SysUser;
+import com.nben.system.pojo.dto.LoginUser;
 
 /**
  * 登录校验方法

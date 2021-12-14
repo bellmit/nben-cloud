@@ -7,7 +7,7 @@ import com.nben.common.core.constant.TokenConstants;
 import com.nben.common.core.context.SecurityContextHolder;
 import com.nben.common.core.utils.ServletUtils;
 import com.nben.common.core.utils.StringUtils;
-import com.nben.system.api.model.LoginUser;
+import com.nben.system.pojo.dto.LoginUser;
 
 /**
  * 权限获取工具类

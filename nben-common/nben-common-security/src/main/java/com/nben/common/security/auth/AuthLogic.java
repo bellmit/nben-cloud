@@ -16,7 +16,7 @@ import com.nben.common.core.utils.StringUtils;
 import com.nben.common.security.annotation.Logical;
 import com.nben.common.security.annotation.RequiresPermissions;
 import com.nben.common.security.utils.SecurityUtils;
-import com.nben.system.api.model.LoginUser;
+import com.nben.system.pojo.dto.LoginUser;
 
 /**
  * Token 权限验证，逻辑实现类

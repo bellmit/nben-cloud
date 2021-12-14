@@ -9,7 +9,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <modules>
-        <module>nben-system</module>
         <module>nben-gen</module>
         <module>nben-job</module>
         <module>nben-file</module>

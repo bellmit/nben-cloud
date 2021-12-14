@@ -5,7 +5,7 @@ import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 import com.nben.common.core.constant.SecurityConstants;
 import com.nben.system.api.RemoteLogService;
-import com.nben.system.api.domain.SysOperLog;
+import com.nben.system.pojo.entity.SysOperLog;
 
 /**
  * 异步调用日志服务

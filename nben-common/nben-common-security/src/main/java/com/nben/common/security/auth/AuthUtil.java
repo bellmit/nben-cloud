@@ -2,7 +2,7 @@ package com.nben.common.security.auth;
 
 import com.nben.common.security.annotation.RequiresRoles;
 import com.nben.common.security.annotation.RequiresPermissions;
-import com.nben.system.api.model.LoginUser;
+import com.nben.system.pojo.dto.LoginUser;
 
 /**
  * Token 权限验证工具类

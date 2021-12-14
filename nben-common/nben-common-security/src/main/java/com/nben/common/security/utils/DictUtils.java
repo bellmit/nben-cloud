@@ -6,7 +6,7 @@ import com.nben.common.core.constant.Constants;
 import com.nben.common.core.utils.SpringUtils;
 import com.nben.common.core.utils.StringUtils;
 import com.nben.common.redis.service.RedisService;
-import com.nben.system.api.domain.SysDictData;
+import com.nben.system.pojo.entity.SysDictData;
 
 /**
  * 字典工具类
