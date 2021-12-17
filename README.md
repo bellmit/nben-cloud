@@ -9,6 +9,16 @@ nben-cloud是一套全部开源的快速开发平台，毫无保留给个人及�
 * 后端采用Spring Cloud & Alibaba微服务框架
 * 前端基于Vite + Element Plus + Vue3开发
 
+## 重构&扩展    
+- [ ] 集成lombok简化代码
+- [ ] 集成MybatisPlus简化单表CRUD
+- [ ] 使用Hutool代替原有的各种工具类
+- [ ] 集成EasyExcel实现导入导出
+- [ ] 接口统一为Restful风格  
+- [ ] 字段翻译功能(包含字典值翻译、表数据值翻译) 
+- [ ] 集成Spring Security实现认证鉴权
+- [ ] 集成Activiti7工作流
+
 ## 内置功能
 
 1.  用户管理：用户是系统操作者，该功能主要完成系统用户配置。
